@@ -19,8 +19,7 @@
     "*.js"
   ],
   "dependencies": {
-    "lodash.orderby": "^4.6.0",
-    "lodash.throttle": "^4.1.1"
+    "lodash-es": "4.17.21"
   },
   "devDependencies": {
     "core-js": "^3.6.5",
