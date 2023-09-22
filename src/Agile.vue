@@ -69,7 +69,7 @@
         slides: [],
         slidesClonedAfter: [],
         slidesClonedBefore: [],
-        isSSR: (typeof window === 'undefined'),
+        isSSR: true,
         transitionDelay: 0,
         translateX: 0,
         widthWindow: 0,
